@@ -1,8 +1,7 @@
 # Hello World!
 I'm Paul, a developer from New York, studing software engineering at university in Connecticut. I work mostly on full-stack web apps. My language-of-choice is currently Go. 
 
-- [My Portfolio](https://elucid.vip)
-- [More Projects](https://sprout.software)
+- [My Portfolio](https://paulujlaky.com)
 
 # My Background
 Over the past few years, I've learned multiple programming languages, but more importantly that building things and meeting other people who do the same brings me great joy.
