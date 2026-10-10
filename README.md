@@ -1,15 +1,15 @@
-# Hello World!
-I'm Paul, a developer from New York, studing software engineering at university in Connecticut. I work mostly on full-stack web apps. My language-of-choice is currently Go. 
+# Hello
+I'm Paul, an ambitious software engineer from New York, studying at university in Connecticut. I primarily work on full-stack web apps, agentic harnesses, and operating systems.
 
 - [My Portfolio](https://paulujlaky.com)
 
 # My Background
-Over the past few years, I've learned multiple programming languages, but more importantly that building things and meeting other people who do the same brings me great joy.
+I started developing with NodeJS prior to 2020. Over the past few years, I have gained experience in TypeScript/React, Go, Zig and more. 
 
 # My Work
-Lots of my free time so far has been spent working mainly on non-profit hobbyist apps, with some freelance work on the side. Other than that, I'm probably enjoying my photography hobby or (trying) to learn and do new things. 
+My free time is spent working mainly on non-profit hobbyist apps, with some freelance work on the side. Professional work includes designing and maintaining multiple apps for my university. I also started the [GraniteOS project](https://graniteos.org) to create free, educational, and open-source operating systems. 
 
-## Reach Out!
+## Reach Out
 I am always open to opportunities for collaboration!
 
 <br>
