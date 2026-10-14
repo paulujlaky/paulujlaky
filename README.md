@@ -11,5 +11,3 @@ My free time is spent working mainly on non-profit hobbyist apps, with some free
 
 ## Reach Out
 I am always open to opportunities for collaboration!
-
-<br>
