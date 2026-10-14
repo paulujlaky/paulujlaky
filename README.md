@@ -14,4 +14,4 @@ I am always open to opportunities for collaboration!
 
 <br>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=elucid503&hide=stars%2Cprs%2Cissues%2Ctrend%2Cgrade%2Cfollowers&order=commits%2Ccontributions%2Chours%2Cstreak%2Cweek%2Cavg%2Cactive_day%2Crepos)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=paulujlaky&hide=stars%2Cprs%2Cissues%2Ctrend%2Cgrade%2Cfollowers&order=commits%2Ccontributions%2Chours%2Cstreak%2Cweek%2Cavg%2Cactive_day%2Crepos)
